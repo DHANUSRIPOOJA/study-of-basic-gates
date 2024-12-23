@@ -84,19 +84,19 @@ Y= A⊕B
 ![WhatsApp Image 2024-11-18 at 4 15 23 PM](https://github.com/user-attachments/assets/f45fb336-b4cf-4b6c-9884-ed5fbbd11b90)
 
 
-**RTL REALIZATION OUTPUT:** 
+**RTL:** 
 
 ![Screenshot 2024-11-18 162034](https://github.com/user-attachments/assets/bb9acdd7-0423-4d55-89d8-d0a9d6b95d7d)
 
 
-**RTL WAVEFORM:**
+**OUTPUT:**
 
 ![image](https://github.com/user-attachments/assets/5832ba93-8822-4fa6-b982-eeb3eb6dc4ae)
 
 
 
-**RESULT**
+**RESULT:**
 
-Studying and verifing the truth table of logic gate in Quartus II using verilog programming is proved.
+Hence the truth table of logic gate in Quartus II using verilog programming is proved.
 
 
